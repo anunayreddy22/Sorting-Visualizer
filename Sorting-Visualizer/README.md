@@ -48,23 +48,7 @@ Follow the steps below to get the Sorting Visualizer project up and running:
 
 6. Once the sorting is complete, you can try other sorting algorithms or modify the input data to further explore the sorting algorithms.
 
-## Contribution
 
-Contributions to this project are welcome and encouraged. If you want to contribute to the Sorting Visualizer, follow these steps:
-
-1. Fork the repository on GitHub.
-
-2. Create a new branch with a descriptive name for your feature or bug fix.
-
-3. Make your changes and improvements to the code.
-
-4. Test your changes thoroughly.
-
-5. Create a pull request to merge your changes into the main repository.
-
-## Acknowledgments
-
-We would like to thank all the contributors and open-source projects that made this Sorting Visualizer possible. Your dedication and effort are greatly appreciated.
 
 Happy Sorting!
 ##
